@@ -6,7 +6,7 @@ Developer: VaasuDevanS
            vaasuceg.96@gmail.com
 '''
 
-from __future__ import print_function
+
 
 
 about={'Version':'1.0','Developer':'VaasuDevan S','Email':'vaasuceg.96@gmail.com','url':'https://www.github.com/VaasuDevanS/periodic_elements','License':'GPL License'}

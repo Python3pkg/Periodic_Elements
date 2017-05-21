@@ -1,2 +1,2 @@
 from . import elements
-from elements import *
+from .elements import *
